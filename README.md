@@ -7,7 +7,7 @@ Deffa Ferdian Alif Utama ( 672019163 )
 Elifas Gavra Harnanda ( 672019223 )                                                       
 Zefanya Ardika ( 672019225 )
 
-menggunakan Bahasa Pemrograman SQL dan Python. untuk Tools Browser(Draw.io dll),Excel,XAMPP(MySQL),Google Collaboratory. 
+menggunakan Bahasa Pemrograman SQL dan Python. untuk Tools Draw.io dll,Excel,phpMyAdmin,Google Collaboratory. 
 dalam Tugas Rancang ini, Kami membuat Data WareHouse dan menganalisa Dataset. Berjudul Perkembangan Vaksinasi Covid-19 Dunia dengan Regresi Linier. 
 akan tetapi Kita akan fokus pada Pemrograman hasil Aplikasinya menggunakan Python.
 
