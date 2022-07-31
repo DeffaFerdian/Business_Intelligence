@@ -12,6 +12,6 @@ dalam Tugas Rancang ini, Kami membuat Data WareHouse dan menganalisa Dataset, de
 akan tetapi Kita akan fokus pada Pemrograman hasil Aplikasinya menggunakan Python.
 
 ini Merupakan Tugas Akhir berupa Tugas Rancang untuk Dosen dari Mata Kuliah Business Intelligence.
-Source Code Kami berikan bertujuan untuk dapat belajar bersama.
+Source Code ini Kami berikan bertujuan untuk dapat belajar bersama.
 
 Selamat Belajar
